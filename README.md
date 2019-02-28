@@ -1,5 +1,5 @@
 # Modul-6-Cookie-dan-Session-Oktavian-Danuarta
-<h1>Hasil Latihan</h1>
+hasil latihan
 ![alt text](https://github.com/Danuoke/Modul-6-Cookie-dan-Session-Oktavian-Danuarta/blob/master/Hasil/Screenshot%20(107).png)
 ![alt text](https://github.com/Danuoke/Modul-6-Cookie-dan-Session-Oktavian-Danuarta/blob/master/Hasil/Screenshot%20(108).png)
 ![alt text](https://github.com/Danuoke/Modul-6-Cookie-dan-Session-Oktavian-Danuarta/blob/master/Hasil/Screenshot%20(109).png)
